@@ -1,4 +1,6 @@
+streamlit==0.52.1
+opencv-python==4.1.2.30
 ultralytics
 opencv-python
 opencv-python-headless
-streamlit
+opencv-contrib-python
