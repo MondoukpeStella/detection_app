@@ -1,5 +1,5 @@
 streamlit
-opencv-python==4.1.2.30
+opencv-python==4.4.0.40
 ultralytics
 opencv-python
 opencv-python-headless
